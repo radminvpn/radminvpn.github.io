@@ -1,1 +1,2 @@
+Host: https://radminvpn.github.io
 Sitemap: https://radminvpn.github.io/sitemap.xml
